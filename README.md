@@ -28,6 +28,11 @@ cd Workflow-Engine
 ```bash
 dotnet run
 ```
+-- to see live updates / changes,
+USE:
+```bash
+dotnet watch run
+```
 
 ## API ENDPOINTS (Using Postman)
 - create states
